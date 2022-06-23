@@ -4,6 +4,7 @@ Algoritmo Magic_Mtx
 	super_magic = 0
 	suma_total = 0 
 	c = Verdadero
+	//----------------------TESTEO GIT
 //----------------------------------------------------------------------------DOY PARÁMETROS A LA MATRIZ
 	Escribir " Ingrese el valor de filas: "; leer Sin Saltar n
 	Escribir " Ingrese el valor de columnas: "; leer Sin Saltar m
